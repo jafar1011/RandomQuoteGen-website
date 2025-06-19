@@ -1,4 +1,4 @@
-A very simple web app that fetches and displays random Simpsons quotes using the Simpsons Quote API.
+A very simple web app that fetches and displays random quotes using a quote API.
 ## Live Demo
 
 Check it out here: 
